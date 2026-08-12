@@ -7,9 +7,11 @@ was you all along? touch id lets the laptop know the call is coming from inside 
 
 ## release the beast
 
-Open Terminal in this folder and run:
+open terminal and run:
 
 ```bash
+git clone https://github.com/max-eisenberg/alarm
+cd alarm
 ./alarm
 ```
 
